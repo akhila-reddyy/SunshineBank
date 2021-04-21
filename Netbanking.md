@@ -3,4 +3,4 @@ Click [Login](Login.html)
 If u dont have an account Register ur details
 Click [Register](Register.html)
 
-[Welcome Page](welcome.xd)
+[Home](Home.md) | [AboutUs](About.md) | [Services](Services.md) | [Netbanking](Netbanking.md) | [ContactUs](ContactUs.md)
